@@ -21,6 +21,7 @@ class Products {
     const info = document.createElement("div");
     const productName = document.createElement("h3");
     const control = document.createElement("div");
+    const price = document
 
     this.parent.appendChild(cardElement);
   }
